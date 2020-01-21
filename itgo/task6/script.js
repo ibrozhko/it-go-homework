@@ -10,3 +10,4 @@ else {total+=input
 console.log(total)}}}
 let message = `Общая сумма чисел равна ${total}`
 alert(message)
+console.log(message);
